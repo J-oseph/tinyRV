@@ -1,0 +1,2 @@
+# tinyRV
+RV32EC
